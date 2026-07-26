@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: ece9d0ce07354bb479199d78c69a9884
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3425464328089538179
+    second: note_appereance_blue_0
+  - first:
+      213: -6486152970496761645
+    second: note_appereance_blue_1
+  - first:
+      213: -4171425083946006129
+    second: note_appereance_blue_2
+  - first:
+      213: -9145081214858564326
+    second: note_appereance_blue_3
+  - first:
+      213: 7610197002298166874
+    second: note_appereance_blue_4
+  - first:
+      213: 5054126066319115405
+    second: note_appereance_blue_5
+  - first:
+      213: -1449116781216502985
+    second: note_appereance_blue_6
+  - first:
+      213: -7963394121630259527
+    second: note_appereance_blue_7
+  - first:
+      213: 7582153839013019430
+    second: note_appereance_blue_8
+  - first:
+      213: -4323055959113062400
+    second: note_appereance_blue_9
+  - first:
+      213: 1939630134277849338
+    second: note_appereance_blue_10
+  - first:
+      213: -4612549908411632492
+    second: note_appereance_blue_11
+  - first:
+      213: 4443939549572456026
+    second: note_appereance_blue_12
+  - first:
+      213: 6793089953131314970
+    second: note_appereance_blue_13
+  - first:
+      213: -4356897592063422465
+    second: note_appereance_blue_14
+  - first:
+      213: -5695603474303812075
+    second: note_appereance_blue_15
+  - first:
+      213: 6248904797822578222
+    second: note_appereance_blue_16
+  - first:
+      213: 532498859793702717
+    second: note_appereance_blue_17
+  - first:
+      213: 6710130209100825338
+    second: note_appereance_blue_18
+  - first:
+      213: -4484616947411648452
+    second: note_appereance_blue_19
+  - first:
+      213: 7347516503857761254
+    second: note_appereance_blue_20
+  - first:
+      213: -8374613161662295297
+    second: note_appereance_blue_21
+  - first:
+      213: 6931577296901084238
+    second: note_appereance_blue_22
+  - first:
+      213: 3436011544541610864
+    second: note_appereance_blue_23
+  - first:
+      213: -1254201402076178688
+    second: note_appereance_blue_24
+  - first:
+      213: 2894494103251143125
+    second: note_appereance_blue_25
+  - first:
+      213: -3659002732539732594
+    second: note_appereance_blue_26
+  - first:
+      213: 7264187260215115942
+    second: note_appereance_blue_27
+  - first:
+      213: -6968746692090971280
+    second: note_appereance_blue_28
+  - first:
+      213: 5435081744780601257
+    second: note_appereance_blue_29
+  - first:
+      213: 998458546731268870
+    second: note_appereance_blue_30
+  - first:
+      213: -7896991034812162599
+    second: note_appereance_blue_31
+  - first:
+      213: 7689323954577750638
+    second: note_appereance_blue_32
+  - first:
+      213: 8229981850306494234
+    second: note_appereance_blue_33
+  - first:
+      213: 8676636492523561545
+    second: note_appereance_blue_34
+  - first:
+      213: 6581989158001635596
+    second: note_appereance_blue_35
+  - first:
+      213: 4019136000776531088
+    second: note_appereance_blue_36
+  - first:
+      213: 915309010802814671
+    second: note_appereance_blue_37
+  - first:
+      213: -7056666946856749118
+    second: note_appereance_blue_38
+  - first:
+      213: 5206566815307476245
+    second: note_appereance_blue_39
+  - first:
+      213: -5638358754037288707
+    second: note_appereance_blue_40
+  - first:
+      213: -3425505364912183646
+    second: note_appereance_blue_41
+  - first:
+      213: 6300953936798181088
+    second: note_appereance_blue_42
+  - first:
+      213: 5478767999503011644
+    second: note_appereance_blue_43
+  - first:
+      213: 788232356161010834
+    second: note_appereance_blue_44
+  - first:
+      213: 8991243566296019083
+    second: note_appereance_blue_45
+  - first:
+      213: -8518885790212045930
+    second: note_appereance_blue_46
+  - first:
+      213: -2777172229282378063
+    second: note_appereance_blue_47
+  - first:
+      213: -6395522895903065746
+    second: note_appereance_blue_48
+  - first:
+      213: 4545629628475301957
+    second: note_appereance_blue_49
+  - first:
+      213: -6604597685452246818
+    second: note_appereance_blue_50
+  - first:
+      213: 7141152492575488748
+    second: note_appereance_blue_51
+  - first:
+      213: 4864040642938983808
+    second: note_appereance_blue_52
+  - first:
+      213: 3215601224445591714
+    second: note_appereance_blue_53
+  - first:
+      213: 4337545816432718887
+    second: note_appereance_blue_54
+  - first:
+      213: 7698629526540907338
+    second: note_appereance_blue_55
+  - first:
+      213: 5608771986484148719
+    second: note_appereance_blue_56
+  - first:
+      213: -4117363743295905393
+    second: note_appereance_blue_57
+  - first:
+      213: 3559987065899974950
+    second: note_appereance_blue_58
+  - first:
+      213: -1100683696386825848
+    second: note_appereance_blue_59
+  - first:
+      213: 8044842943082430427
+    second: note_appereance_blue_60
+  - first:
+      213: 5299223356069668951
+    second: note_appereance_blue_61
+  - first:
+      213: -7286080361631995662
+    second: note_appereance_blue_62
+  - first:
+      213: 3907348918219531193
+    second: note_appereance_blue_63
+  - first:
+      213: 4160971026185573901
+    second: note_appereance_blue_64
+  - first:
+      213: -7469373014031529601
+    second: note_appereance_blue_65
+  - first:
+      213: 8372092475804438068
+    second: note_appereance_blue_66
+  - first:
+      213: 2108287078224356304
+    second: note_appereance_blue_67
+  - first:
+      213: -4876730294545574393
+    second: note_appereance_blue_68
+  - first:
+      213: 7865345327768888491
+    second: note_appereance_blue_69
+  - first:
+      213: 3528876690929081410
+    second: note_appereance_blue_70
+  - first:
+      213: -4750247273326957396
+    second: note_appereance_blue_71
+  - first:
+      213: 3507625330890324067
+    second: note_appereance_blue_72
+  - first:
+      213: -4157987992575897708
+    second: note_appereance_blue_73
+  - first:
+      213: -4155240731683144507
+    second: note_appereance_blue_74
+  - first:
+      213: -8938190050222319942
+    second: note_appereance_blue_75
+  - first:
+      213: -5084941841191880152
+    second: note_appereance_blue_76
+  - first:
+      213: -7092598761158387044
+    second: note_appereance_blue_77
+  - first:
+      213: 3298384609612176623
+    second: note_appereance_blue_78
+  - first:
+      213: 6988020675778137138
+    second: note_appereance_blue_79
+  - first:
+      213: 8423876364949931101
+    second: note_appereance_blue_80
+  - first:
+      213: 5950918299667755687
+    second: note_appereance_blue_81
+  - first:
+      213: -1502366318173257259
+    second: note_appereance_blue_82
+  - first:
+      213: -8347323106480452930
+    second: note_appereance_blue_83
+  - first:
+      213: 6299528977857336834
+    second: note_appereance_blue_84
+  - first:
+      213: 1561985870971674708
+    second: note_appereance_blue_85
+  - first:
+      213: -7240768376040557860
+    second: note_appereance_blue_86
+  - first:
+      213: 2319310764128322009
+    second: note_appereance_blue_87
+  - first:
+      213: -5288968725395430859
+    second: note_appereance_blue_88
+  - first:
+      213: -6887951468711406087
+    second: note_appereance_blue_89
+  - first:
+      213: -4770299549025259360
+    second: note_appereance_blue_90
+  - first:
+      213: 7236248588822776962
+    second: note_appereance_blue_91
+  - first:
+      213: 8969026038788654216
+    second: note_appereance_blue_92
+  - first:
+      213: -6802115823120721346
+    second: note_appereance_blue_93
+  - first:
+      213: -31222518140937929
+    second: note_appereance_blue_94
+  - first:
+      213: 8922794470846574673
+    second: note_appereance_blue_95
+  - first:
+      213: -5736945489261704160
+    second: note_appereance_blue_96
+  - first:
+      213: -5925899032075888701
+    second: note_appereance_blue_97
+  - first:
+      213: -7383305931052607386
+    second: note_appereance_blue_98
+  - first:
+      213: 687084397825351275
+    second: note_appereance_blue_99
+  - first:
+      213: 8055824367986641809
+    second: note_appereance_blue_100
+  - first:
+      213: -2500673747526999524
+    second: note_appereance_blue_101
+  - first:
+      213: -987586064667805910
+    second: note_appereance_blue_102
+  - first:
+      213: -5730133239013732509
+    second: note_appereance_blue_103
+  - first:
+      213: 7932868837344634846
+    second: note_appereance_blue_104
+  - first:
+      213: 6229991877656681608
+    second: note_appereance_blue_105
+  - first:
+      213: -3469968981269319817
+    second: note_appereance_blue_106
+  - first:
+      213: 4713021015786296242
+    second: note_appereance_blue_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: note_appereance_blue_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 13
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f898e30ccfe1c16c0800000000000000
+      internalID: -4171425083946006129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 17
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1de14a7615261180800000000000000
+      internalID: -9145081214858564326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b688917f3b3ebe0800000000000000
+      internalID: -1449116781216502985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 19
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b66bcdfc375c7190800000000000000
+      internalID: -7963394121630259527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 21
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0082eec728b6104c0800000000000000
+      internalID: -4323055959113062400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0464d9453faea10800000000000000
+      internalID: 1939630134277849338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 19
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4943d50fb4eecffb0800000000000000
+      internalID: -4612549908411632492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e539fa97b0cad30800000000000000
+      internalID: 4443939549572456026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fbaaf2257e54e50800000000000000
+      internalID: 6793089953131314970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 21
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef3a411d625f0b0800000000000000
+      internalID: -5695603474303812075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 21
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ee2753ec198b650800000000000000
+      internalID: 6248904797822578222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 19
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fdd4544e0d36700800000000000000
+      internalID: 532498859793702717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 25
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af282169fdb2f1d50800000000000000
+      internalID: 6710130209100825338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3005d795a073c1c0800000000000000
+      internalID: -4484616947411648452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb03c9d45f97f560800000000000000
+      internalID: 7347516503857761254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_23
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 19
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0734b848b4a2faf20800000000000000
+      internalID: 3436011544541610864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_24
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007d378487e289ee0800000000000000
+      internalID: -1254201402076178688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_25
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 21
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d94fbc1d0f4b2820800000000000000
+      internalID: 2894494103251143125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d19c6a66c983dc0800000000000000
+      internalID: -3659002732539732594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 0
+        width: 21
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b3d383ec90a4f90800000000000000
+      internalID: -6968746692090971280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_29
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 19
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7abd2fc0a4d6b40800000000000000
+      internalID: 5435081744780601257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_31
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 19
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd939f6e70486290800000000000000
+      internalID: -7896991034812162599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_32
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 17
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a328b9567f5ba60800000000000000
+      internalID: 7689323954577750638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_33
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 15
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f3e6773e4c63270800000000000000
+      internalID: 8229981850306494234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 13
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01f82e244ce75b50800000000000000
+      internalID: 6581989158001635596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 13
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce44ef5e6d6c730800000000000000
+      internalID: 4019136000776531088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 13
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f8c2263fbdb46c0800000000000000
+      internalID: -4157987992575897708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 17
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82abc3c2658ae69b0800000000000000
+      internalID: -5084941841191880152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 17
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a57c24107029d90800000000000000
+      internalID: -7092598761158387044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5446ac1cee97e470800000000000000
+      internalID: 8423876364949931101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd27835768f938b90800000000000000
+      internalID: -7240768376040557860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_21
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 21
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a53d1b2b70a91a0800000000000000
+      internalID: -6802115823120721346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 23
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73957310943119ff0800000000000000
+      internalID: -31222518140937929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_27
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 0
+        width: 21
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed7179e93098900800000000000000
+      internalID: 687084397825351275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_30
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 19
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a277956e4b36b42f0800000000000000
+      internalID: -987586064667805910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: note_appereance_blue_34
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 15
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f61d1a89138dfc0800000000000000
+      internalID: -3469968981269319817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4968d6d5e9d873148ad2bf11eac84c8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      note_appereance_blue_0: 4019136000776531088
+      note_appereance_blue_1: -4157987992575897708
+      note_appereance_blue_10: 1939630134277849338
+      note_appereance_blue_100: 8055824367986641809
+      note_appereance_blue_101: -2500673747526999524
+      note_appereance_blue_103: -5730133239013732509
+      note_appereance_blue_104: 7932868837344634846
+      note_appereance_blue_105: 6229991877656681608
+      note_appereance_blue_107: 4713021015786296242
+      note_appereance_blue_11: -4612549908411632492
+      note_appereance_blue_12: 4443939549572456026
+      note_appereance_blue_13: 6793089953131314970
+      note_appereance_blue_14: -7240768376040557860
+      note_appereance_blue_15: -5695603474303812075
+      note_appereance_blue_16: 6248904797822578222
+      note_appereance_blue_17: 532498859793702717
+      note_appereance_blue_18: 6710130209100825338
+      note_appereance_blue_19: -4484616947411648452
+      note_appereance_blue_2: -4171425083946006129
+      note_appereance_blue_20: 7347516503857761254
+      note_appereance_blue_21: -6802115823120721346
+      note_appereance_blue_22: -31222518140937929
+      note_appereance_blue_23: 3436011544541610864
+      note_appereance_blue_24: -1254201402076178688
+      note_appereance_blue_25: 2894494103251143125
+      note_appereance_blue_26: -3659002732539732594
+      note_appereance_blue_27: 687084397825351275
+      note_appereance_blue_28: -6968746692090971280
+      note_appereance_blue_29: 5435081744780601257
+      note_appereance_blue_3: -9145081214858564326
+      note_appereance_blue_30: -987586064667805910
+      note_appereance_blue_31: -7896991034812162599
+      note_appereance_blue_32: 7689323954577750638
+      note_appereance_blue_33: 8229981850306494234
+      note_appereance_blue_34: -3469968981269319817
+      note_appereance_blue_35: 6581989158001635596
+      note_appereance_blue_37: 915309010802814671
+      note_appereance_blue_38: -7056666946856749118
+      note_appereance_blue_39: 5206566815307476245
+      note_appereance_blue_4: -5084941841191880152
+      note_appereance_blue_40: -5638358754037288707
+      note_appereance_blue_41: -3425505364912183646
+      note_appereance_blue_42: 6300953936798181088
+      note_appereance_blue_43: 5478767999503011644
+      note_appereance_blue_44: 788232356161010834
+      note_appereance_blue_45: 8991243566296019083
+      note_appereance_blue_46: -8518885790212045930
+      note_appereance_blue_47: -2777172229282378063
+      note_appereance_blue_48: -6395522895903065746
+      note_appereance_blue_49: 4545629628475301957
+      note_appereance_blue_5: -7092598761158387044
+      note_appereance_blue_50: -6604597685452246818
+      note_appereance_blue_51: 7141152492575488748
+      note_appereance_blue_52: 4864040642938983808
+      note_appereance_blue_53: 3215601224445591714
+      note_appereance_blue_54: 4337545816432718887
+      note_appereance_blue_55: 7698629526540907338
+      note_appereance_blue_56: 5608771986484148719
+      note_appereance_blue_57: -4117363743295905393
+      note_appereance_blue_58: 3559987065899974950
+      note_appereance_blue_59: -1100683696386825848
+      note_appereance_blue_6: -1449116781216502985
+      note_appereance_blue_60: 8044842943082430427
+      note_appereance_blue_61: 5299223356069668951
+      note_appereance_blue_62: -7286080361631995662
+      note_appereance_blue_63: 3907348918219531193
+      note_appereance_blue_64: 4160971026185573901
+      note_appereance_blue_65: -7469373014031529601
+      note_appereance_blue_66: 8372092475804438068
+      note_appereance_blue_67: 2108287078224356304
+      note_appereance_blue_68: -4876730294545574393
+      note_appereance_blue_69: 7865345327768888491
+      note_appereance_blue_7: -7963394121630259527
+      note_appereance_blue_70: 3528876690929081410
+      note_appereance_blue_71: -4750247273326957396
+      note_appereance_blue_72: 3507625330890324067
+      note_appereance_blue_74: -4155240731683144507
+      note_appereance_blue_75: -8938190050222319942
+      note_appereance_blue_78: 3298384609612176623
+      note_appereance_blue_79: 6988020675778137138
+      note_appereance_blue_8: 8423876364949931101
+      note_appereance_blue_81: 5950918299667755687
+      note_appereance_blue_82: -1502366318173257259
+      note_appereance_blue_83: -8347323106480452930
+      note_appereance_blue_84: 6299528977857336834
+      note_appereance_blue_85: 1561985870971674708
+      note_appereance_blue_87: 2319310764128322009
+      note_appereance_blue_88: -5288968725395430859
+      note_appereance_blue_89: -6887951468711406087
+      note_appereance_blue_9: -4323055959113062400
+      note_appereance_blue_90: -4770299549025259360
+      note_appereance_blue_91: 7236248588822776962
+      note_appereance_blue_92: 8969026038788654216
+      note_appereance_blue_95: 8922794470846574673
+      note_appereance_blue_96: -5736945489261704160
+      note_appereance_blue_97: -5925899032075888701
+      note_appereance_blue_98: -7383305931052607386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
