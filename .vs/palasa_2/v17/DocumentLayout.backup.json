@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\unity\\palasa_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|d:\\unity\\palasa_2\\assets\\scripts\\pause\\volumeequalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pause\\volumeequalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|d:\\unity\\palasa_2\\assets\\scripts\\other\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|d:\\unity\\palasa_2\\assets\\scripts\\pause\\volumeslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pause\\volumeslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|d:\\unity\\palasa_2\\assets\\scripts\\settings\\settingsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\settingsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|D:\\unity\\palasa_2\\assets\\scripts\\rythm\\combouicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rythm\\combouicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|D:\\unity\\palasa_2\\assets\\scripts\\settings\\dropdownmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\dropdownmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|D:\\unity\\palasa_2\\assets\\scripts\\rythm\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rythm\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|D:\\unity\\palasa_2\\assets\\scripts\\settings\\settingsapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\settingsapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|D:\\unity\\palasa_2\\assets\\scripts\\rythm\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rythm\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|D:\\unity\\palasa_2\\assets\\scripts\\settings\\settingssavesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\settingssavesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|D:\\unity\\palasa_2\\assets\\scripts\\rythm\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rythm\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|D:\\unity\\palasa_2\\assets\\scripts\\settings\\gamesettingsso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE1207-9DDD-E7B0-630B-47E2B36E352A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\gamesettingsso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\palasa_2\\Assets\\Scripts\\PauseNSettings\\SettingsUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PauseNSettings\\SettingsUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\palasa_2\\Assets\\level1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -43,68 +47,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VolumeEqualizer.cs",
-              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Pause\\VolumeEqualizer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pause\\VolumeEqualizer.cs",
-              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Pause\\VolumeEqualizer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pause\\VolumeEqualizer.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAADwv3EAAAABAAAAAAAAAA==",
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Other\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\SceneLoader.cs",
+              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Other\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T15:48:48.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VolumeSlider.cs",
-              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Pause\\VolumeSlider.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pause\\VolumeSlider.cs",
-              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Pause\\VolumeSlider.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pause\\VolumeSlider.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvyQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T13:03:15.265Z",
+              "WhenOpened": "2026-08-06T10:08:08.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ComboUIController.cs",
-              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Rythm\\ComboUIController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Rythm\\ComboUIController.cs",
-              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Rythm\\ComboUIController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Rythm\\ComboUIController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DropdownMenu.cs",
+              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\DropdownMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\DropdownMenu.cs",
+              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\DropdownMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Settings\\DropdownMenu.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAADwv2sAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T09:26:55.927Z"
+              "WhenOpened": "2026-08-05T20:32:48.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsUI.cs",
+              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\SettingsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\SettingsUI.cs",
+              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\SettingsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Settings\\SettingsUI.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAABBwF4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T20:31:06.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NoteController.cs",
-              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Rythm\\NoteController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Rythm\\NoteController.cs",
-              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Rythm\\NoteController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Rythm\\NoteController.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAABBwKcAAAANAAAAAAAAAA==",
+              "Title": "SettingsApplier.cs",
+              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\SettingsApplier.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\SettingsApplier.cs",
+              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\SettingsApplier.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Settings\\SettingsApplier.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvzgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T19:41:35.223Z"
+              "WhenOpened": "2026-08-05T19:11:02.434Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Rythm\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Rythm\\PlayerController.cs",
-              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Rythm\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Rythm\\PlayerController.cs",
-              "ViewState": "AgIAABoBAAAAAAAAAADwvy0BAAAAAAAAAAAAAA==",
+              "Title": "SettingsSaveSystem.cs",
+              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\SettingsSaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\SettingsSaveSystem.cs",
+              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\SettingsSaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Settings\\SettingsSaveSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T19:38:53.635Z"
+              "WhenOpened": "2026-08-05T19:10:11.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameSettingsSO.cs",
+              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\GameSettingsSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\GameSettingsSO.cs",
+              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Settings\\GameSettingsSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Settings\\GameSettingsSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T08:39:44.183Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SettingsUI.cs",
+              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\PauseNSettings\\SettingsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseNSettings\\SettingsUI.cs",
+              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\PauseNSettings\\SettingsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseNSettings\\SettingsUI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:22:27.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "level1.json",
               "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\level1.json",
               "RelativeDocumentMoniker": "Assets\\level1.json",
@@ -113,18 +140,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-07-07T17:58:38.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SpawnManager.cs",
-              "DocumentMoniker": "D:\\unity\\palasa_2\\Assets\\Scripts\\Rythm\\SpawnManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Rythm\\SpawnManager.cs",
-              "ToolTip": "D:\\unity\\palasa_2\\Assets\\Scripts\\Rythm\\SpawnManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Rythm\\SpawnManager.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAADwv10AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:53:30.763Z"
             }
           ]
         }

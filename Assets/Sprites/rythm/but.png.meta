@@ -632,13 +632,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: window_top_def
+      name: insert_def
       rect:
         serializedVersion: 2
-        x: 6
-        y: 34
-        width: 29
-        height: 12
+        x: 11
+        y: 50
+        width: 45
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,33 +654,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: window_top_hovered
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 34
-        width: 29
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d7a41b33df0dceb0800000000000000
-      internalID: -4698081436373833769
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: checkbox_active
       rect:
         serializedVersion: 2
         x: 81
-        y: 37
+        y: 38
         width: 14
         height: 14
       alignment: 0
@@ -874,13 +852,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: window_mid_def
+      name: insert_hovered
       rect:
         serializedVersion: 2
-        x: 6
-        y: 21
-        width: 29
-        height: 11
+        x: 11
+        y: 39
+        width: 45
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,28 +869,6 @@ TextureImporter:
       bones: []
       spriteID: ba0b376f9ab2ec710800000000000000
       internalID: 1715356517058982059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: window_mid_hovered
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 21
-        width: 29
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aff0ee712f5e423e0800000000000000
-      internalID: -2079284299992002566
       vertices: []
       indices: 
       edges: []
@@ -984,13 +940,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: window_bot_def
+      name: menu
       rect:
         serializedVersion: 2
-        x: 6
-        y: 6
-        width: 29
-        height: 13
+        x: 9
+        y: 2
+        width: 53
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1001,28 +957,6 @@ TextureImporter:
       bones: []
       spriteID: eafef86b91aaf16e0800000000000000
       internalID: -1864584693294305362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: window_bot_hovered
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 6
-        width: 29
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e8703935e6e02210800000000000000
-      internalID: 1306297764118821089
       vertices: []
       indices: 
       edges: []
@@ -1146,7 +1080,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1168,7 +1102,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1190,7 +1124,7 @@ TextureImporter:
         width: 25
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1199,6 +1133,138 @@ TextureImporter:
       bones: []
       spriteID: 40585b72feb408148aaa3e940b31819f
       internalID: 1460946427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkbox_asd
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 23
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa1e07b52aaaf409bb2481d4fc9240
+      internalID: 1309726653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_def
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e80e3b3d1669848a54bae9f684d30a
+      internalID: -286603042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_hovered
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b40ec56c20dc2a4db3188f53a329442
+      internalID: 747354627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_def
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 69
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35bfc34a2329144bf878c787c5af14
+      internalID: -418550735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_hovered
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 38
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cffa9fe03d4864681613a4fc88d655
+      internalID: 557595939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back_pressed
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 5
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a81d0bba559d45ab132e6897dd766
+      internalID: -1113413535
       vertices: []
       indices: 
       edges: []
@@ -1219,18 +1285,27 @@ TextureImporter:
     nameFileIdTable:
       SE_empty: 7143551744665385371
       SE_filled: -4105977719016360991
+      back_def: -418550735
+      back_hovered: 557595939
+      back_pressed: -1113413535
       but_12: -6387242062834348376
       but_14: 8353262441373832743
+      button_def: -286603042
+      button_hovered: 747354627
       checkbox_active: -2511864435606553227
+      checkbox_asd: 1309726653
       checkbox_def: 1763442024222607751
       checkbox_hovered: -6840778132138157573
       checkbox_pressed: 6571332906423951306
       esc_def: 955058889
       esc_hovered: -848294442
       esc_pressed: 1460946427
+      insert_def: -6592744552774510321
+      insert_hovered: 1715356517058982059
       keyboard_def: 3566320482205974775
       keyboard_hovered: -5989000460169769651
       keyboard_pressed: 1813679482382752576
+      menu: -1864584693294305362
       menu_def: -5394742133950328034
       menu_hovered: -1418363192058065518
       menu_pressed: -7486005535161280161
@@ -1258,11 +1333,8 @@ TextureImporter:
       sound_def: 3493299045024576311
       sound_hovered: -7484053280377546665
       sound_pressed: -2529032853418224084
-      window_bot_def: -1864584693294305362
       window_bot_hovered: 1306297764118821089
-      window_mid_def: 1715356517058982059
       window_mid_hovered: -2079284299992002566
-      window_top_def: -6592744552774510321
       window_top_hovered: -4698081436373833769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
